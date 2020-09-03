@@ -31,7 +31,9 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 4 - Building your Deep Neural Network: Step by Step](./01_Neural_Networks_and_Deep_Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
   + [Week 4 - Deep Neural Network: Application](./01_Neural_Networks_and_Deep_Learning/Week%204/Deep%20Neural%20Network%20Application:%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
-  Completion Certificate: https://www.coursera.org/account/accomplishments/certificate/V49UD246G827
+  Completion Certificate: 
+  + [Course 1](https://www.coursera.org/account/accomplishments/certificate/V49UD246G827)
+
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
   Objectives:  
