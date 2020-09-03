@@ -50,6 +50,9 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 2 - Optimization](./02_Improving_Deep_Neural_Networks/week6/Optimization_methods_v1b.ipynb)
   + [Week 3 - TensorFlow](./02_Improving_Deep_Neural_Networks/week7/TensorFlow_Tutorial_v3b.ipynb)
 
+  Completion Certificate: 
+  + [Course 2](https://www.coursera.org/account/accomplishments/certificate/CB3VGXC4XR86)
+
 ### Course 3: Structuring Machine Learning Projects
 
   Objectives:  
@@ -60,6 +63,9 @@ This repo contains all my work for this specialization. All the code base and im
 
    Code:
   +   There is no Program Assignments for this course. But this course comes with very interesting case study quizzes.
+  
+  Completion Certificate: 
+  + [Course 3](https://www.coursera.org/account/accomplishments/certificate/6MWK4558M8MG)
   
 ### Course 4: Convolutional Neural Networks
 
@@ -77,6 +83,9 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 3 - Autonomous driving application - Car detection](./04_Convolutional_Neural_Networks/week3/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb)
   + [Week 4 - Face Recognition for the Happy House](./04_Convolutional_Neural_Networks/week4/Face%20Recognition/Face_Recognition_v3a.ipynb)
   + [Week 4 - Art Generation with Neural Style Transfer](./04_Convolutional_Neural_Networks/week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+
+  Completion Certificate: 
+  + [Course 4](https://www.coursera.org/account/accomplishments/certificate/BUNBBS45BM9L)
   
 ### Course 5: Sequence Models
   
@@ -93,3 +102,6 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 2 - Emojify](./05_Sequence_Models/Week%202/Emojify/Emojify_v2a.ipynb)
   + [Week 3 - Neural machine translation with attention](./05_Sequence_Models/Week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
   + [Week 3 - Trigger word detection](./05_Sequence_Models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
+
+  Completion Certificate: 
+  + [Course 5](https://www.coursera.org/account/accomplishments/certificate/SLUJS3H6MKMN)
